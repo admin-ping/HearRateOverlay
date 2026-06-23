@@ -1,0 +1,10 @@
+name: "极简数字"
+version: 1
+component: "MinimalistNumber"
+author: "HeartRateOverlay"
+default:
+  font_size: 80
+  font_color: "#FFFFFF"
+  bg_color: "transparent"
+  show_unit: true
+  animation: "pulse"

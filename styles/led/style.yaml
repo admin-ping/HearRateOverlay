@@ -1,0 +1,10 @@
+name: "LED点阵"
+version: 1
+component: "LEDMatrix"
+author: "HeartRateOverlay"
+default:
+  led_color_on: "#FF0000"
+  led_color_off: "#330000"
+  dot_size: 8
+  font_size: 64
+  bg_color: "transparent"

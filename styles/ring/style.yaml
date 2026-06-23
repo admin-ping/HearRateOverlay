@@ -1,0 +1,11 @@
+name: "环形进度"
+version: 1
+component: "RingProgress"
+author: "HeartRateOverlay"
+default:
+  ring_color: "#00FF88"
+  ring_width: 8
+  font_size: 48
+  font_color: "#FFFFFF"
+  bg_color: "transparent"
+  show_percent: true

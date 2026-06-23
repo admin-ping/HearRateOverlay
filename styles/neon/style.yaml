@@ -1,0 +1,11 @@
+name: "霓虹"
+version: 1
+component: "NeonGlow"
+author: "HeartRateOverlay"
+default:
+  glow_color: "#FF00FF"
+  glow_radius: 20
+  font_size: 72
+  font_color: "#FFFFFF"
+  bg_color: "transparent"
+  show_unit: true

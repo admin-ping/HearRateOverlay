@@ -1,0 +1,10 @@
+name: "速度表盘"
+version: 1
+component: "SpeedGauge"
+author: "HeartRateOverlay"
+default:
+  gauge_color: "#FF4444"
+  needle_color: "#FFFFFF"
+  font_size: 36
+  font_color: "#FFFFFF"
+  max_value: 220
